@@ -1,0 +1,1 @@
+This project will put my HTML skills to the test. Beyond HTML, I will be use the command line within Xubuntu on a VM, utilize git for version control, and store my project on GitHub.
