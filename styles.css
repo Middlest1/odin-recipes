@@ -1,0 +1,38 @@
+html {
+    box-sizing: border-box;
+    background-color: rgb(212, 203, 203);
+  }
+  
+  *,
+  *::before,
+  *::after {
+    box-sizing: inherit;
+  }
+
+body {
+    width: 500px;
+    margin: 0px auto;
+}
+
+h1, .recipes {
+    text-align: center;
+}
+
+h1 {
+    font-size: 40px;
+    color: rgb(56, 21, 21);
+}
+
+ul {
+    list-style-type: none;
+    margin: 0px;
+    padding: 0px;
+    font-size: 24px;
+  }
+
+li {
+    margin-top: 10px;
+    background-color: antiquewhite;
+    padding: 30px;
+    border-radius: 5px;
+}
